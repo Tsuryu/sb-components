@@ -1,6 +1,6 @@
 import "./label.css";
 
-interface Props {
+export interface Props {
   /**
    * Should capitalize
    */
