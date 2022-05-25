@@ -3,7 +3,7 @@
 Do not use
 
 ```
-yarn add sb-components
+yarn add sv-my-storybook-components
 ```
 
 ## Demo
